@@ -119,6 +119,7 @@ Feel free to link your solutions to this Readme.
 
 25. [Tonino Lucca](https://github.com/tonyx)
     - Exercise 1: [F#](https://github.com/tonyx/transport-tycoon-1)
+    - Exercise 2: [F#](https://github.com/tonyx/transport-tycoon-2) (no slower ship yet),[AB Trace](https://github.com/tonyx/transport-tycoon-2/blob/master/AB.log)
     
 26. [Mark Woodworth](https://github.com/Solaxun)
     - Exercise 1: [Clojure](https://github.com/Solaxun/transport-tycoon-kata/blob/master/src/transport_tycoon_kata/transport.clj)
